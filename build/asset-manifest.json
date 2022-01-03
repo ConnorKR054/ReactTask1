@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ConnorKR054/React1.git/static/css/main.282dd201.chunk.css",
+    "main.js": "/ConnorKR054/React1.git/static/js/main.ab7424d0.chunk.js",
+    "main.js.map": "/ConnorKR054/React1.git/static/js/main.ab7424d0.chunk.js.map",
+    "runtime-main.js": "/ConnorKR054/React1.git/static/js/runtime-main.5f97cc90.js",
+    "runtime-main.js.map": "/ConnorKR054/React1.git/static/js/runtime-main.5f97cc90.js.map",
+    "static/js/2.88a6952a.chunk.js": "/ConnorKR054/React1.git/static/js/2.88a6952a.chunk.js",
+    "static/js/2.88a6952a.chunk.js.map": "/ConnorKR054/React1.git/static/js/2.88a6952a.chunk.js.map",
+    "index.html": "/ConnorKR054/React1.git/index.html",
+    "static/css/main.282dd201.chunk.css.map": "/ConnorKR054/React1.git/static/css/main.282dd201.chunk.css.map",
+    "static/js/2.88a6952a.chunk.js.LICENSE.txt": "/ConnorKR054/React1.git/static/js/2.88a6952a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f97cc90.js",
+    "static/js/2.88a6952a.chunk.js",
+    "static/css/main.282dd201.chunk.css",
+    "static/js/main.ab7424d0.chunk.js"
+  ]
+}
